@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Money Tracker</string>
+    <string name="confirm_pass_label">Confirm\nPassword:</string>
+    <string name="sign_in">Sign-In</string>
+    <string name="borrower">Borrower:</string>
+    <string name="amount">Amount:</string>
+    <string name="Date">Date:</string>
+    <string name="Add">Add</string>
+    <string name="title_activity_borrowers_list">BorrowersListActivity</string>
+    <string name="search">Search</string>
+    <string name="back">Back</string>
+    <string name="paid">Paid</string>
+    <string name="name">Name</string>
+</resources>
